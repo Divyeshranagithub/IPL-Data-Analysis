@@ -2,6 +2,10 @@
 
 This repository contains scripts and notebooks for analyzing Indian Premier League (IPL) cricket data.
 
+## Deployment
+The project is deployed and can be accessed [here](https://ipl-data-analysis.streamlit.app/).
+
+
 ## Overview
 
 The Indian Premier League (IPL) is one of the most popular Twenty20 cricket leagues worldwide. This project aims to analyze various aspects of IPL matches using data-driven approaches. The analysis includes but is not limited to player performance, team performance, match outcomes, and trends over different seasons.
